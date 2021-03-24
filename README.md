@@ -4,11 +4,9 @@
 
 Thank you for your interest in my project.
 
-We've got a number of keys that represent different drums in a typical drum set.
+We've got a number of keys that represent different drums in a typical drum set and when you click on any of these buttons then you'll get the corresponding sound of the drum.
 
-And when you click on any of these buttons then you'll get the corresponding sound of the drum.
-
-And in addition you can also use the keys on the keyboard.
+In addition you can also use the keys on the keyboard.
 
 It is made with HTML, CSS, JavaScript.
 
