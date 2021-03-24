@@ -8,7 +8,7 @@ We've got a number of keys that represent different drums in a typical drum set 
 
 In addition you can also use the keys on the keyboard.
 
-It is made with HTML, CSS, JavaScript.
+It's made with HTML, CSS, JavaScript.
 
 ## Try it!
 
